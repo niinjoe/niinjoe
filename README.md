@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niinjoe
 - 👀 I’m interested in learning to code and make my own apps and websites.
-- 🌱 I have some basic python knowledge, and now learning html & css for web development, an js down the road.
-- 💞️ I’m looking to collaborate on any project I can apply my knowledge, from websites to automation apps.
+- 🌱 I dominate python, html & css. Most of my day to day is working with python either creating reports or learning new libraries and skills.
+- 💞️ My goal is to build my own websites and automate tasks. And some day even manage my own business with all this knowledge.
 - 📫 How to reach me: @niinjoe on twitter
 
 <!---
